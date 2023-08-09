@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Nihar Patel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
