@@ -34,7 +34,7 @@
   </a>
   <a href="/" target="_blank" rel="noreferrer">    
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)"
       alt="bootstrap"
       width="40"
       height="40"
