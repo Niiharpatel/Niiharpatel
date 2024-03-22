@@ -42,7 +42,7 @@
   </a>
   <a href="/" target="_blank" rel="noreferrer">    
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg)"
+      src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png)"
       alt="tailwindcss"
       width="40"
       height="40"
